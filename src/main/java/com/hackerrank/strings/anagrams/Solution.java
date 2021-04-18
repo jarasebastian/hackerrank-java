@@ -1,4 +1,4 @@
-package com.hackerrank.anagrams;
+package com.hackerrank.strings.anagrams;
 
 import java.util.Scanner;
 
